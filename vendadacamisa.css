@@ -1,0 +1,100 @@
+.camisaum{
+    width: 100px;
+    height: 100px;
+}
+.titulo1{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+body{
+    background-repeat: no-repeat;
+background-attachment: fixed;
+justify-content: center;
+display: flex;
+background-color: rgb(3, 3, 3);
+
+  
+}
+
+.carousel{
+    background-color: rgb(5, 5, 5);
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 175px;
+    border: solid 5px green;
+    box-shadow: 10px 10px 10px 5px #13c013;
+    margin-top: 50px;
+}
+.controls{
+    margin-top: 200px;
+}
+
+.descrição{
+    margin-top: 50px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 50px;
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+   font-style: normal;
+  background: rgb(1,1,11);
+background: linear-gradient(90deg, rgba(1, 11, 7, 0.667) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+ width: 600px;
+ border-radius: 30px;
+ color: beige;
+ font-size: 35px;
+ margin-left:80px;
+ 
+
+ 
+    
+}
+
+.camiseta1{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+   font-style: normal;
+   color: beige;
+   margin-top: 80px;
+   display: flex;
+   justify-content: center;
+   background: rgb(1,1,11);
+   background: linear-gradient(90deg, rgba(1, 11, 7, 0.667) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+   height: 110px;
+    border-radius: 30px;
+    width: 600px;
+    margin-left: 80px;
+    
+}
+.descricao2{
+    margin-top: 20px;
+    font-size: 22px;
+    
+}
+
+.palavra{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.comprar{
+    background-color: #13c013;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: 270px;
+    font-size: 26px;
+    height: 80px;
+    border-radius: 50px;
+    width: 200px;;
+    text-align: center;
+    height: 40px;
+    
+}

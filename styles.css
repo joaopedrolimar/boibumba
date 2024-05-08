@@ -1,0 +1,333 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+
+img{
+  image-resolution: 100px;
+  width: 700px;
+  height: 300px;
+  margin-top: 10px;
+  margin-left: -100px;
+  display: flex;
+  
+  
+}
+
+body{
+
+  background: rgb(182, 133, 133);
+background: linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(130,236,12,1) 100%);
+}
+
+
+
+ .container{
+  display:flex;
+
+  text-align: center;
+ text-transform: uppercase;
+margin-top: 80px;
+  text-align: justify;
+  color: rgb(247, 245, 245);
+  text-decoration: double;
+text-decoration: wavy;
+border-width: 50px;
+  img{
+    width: 800px;
+    margin-right: 70px;
+    margin-top: 2px;
+    margin-right: 5px;
+    border-width: 20px;
+  }
+
+
+      
+ }
+
+ .container img{
+  width: 700px;
+ }
+
+ .imagemboi{
+ display: flex;
+ justify-content: space-between;
+}
+
+.imagemboi .imgbatucada{
+  width: 220px;
+  height: 210px;
+  margin-right: 50px;
+  margin-top: 45px;
+}
+body{
+ 
+background-image: url(desistindo.png);
+background-color: rgb(177, 22, 22);
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}
+
+#page2{
+  
+  justify-content: end;
+}
+.verde{
+  text-decoration: none;
+  color: green;
+}
+
+.texto{
+  text-align: center;
+  text-align: justify;
+}
+
+
+.fotodoboi{
+  margin-top: 200px;
+  margin-left: -200px;
+  margin-bottom: -400px;
+  height: 400px;
+}
+
+
+#page3{
+ 
+}
+
+p{
+  border: solid;
+  padding: 5px ;
+  border-color: #13c013;
+ display: inline-block;
+ box-shadow: 5px 5px 5px 5px rgba(37, 224, 0, 0.3);
+ margin-left: 100px;
+ font-family: "Caveat", cursive;
+ font-optical-sizing: auto;
+ font-weight: weight;
+ font-style: normal;
+ font-size: 14px;
+ background: rgb(51, 151, 21);
+background: linear-gradient(90deg, rgba(1,1,11,0.6671043417366946) 23%, rgba(0,0,0,0.8323704481792717) 69%);
+ 
+}
+
+  .itens{
+    height: auto;
+    left: 400px;
+    margin-right: 100px;
+  }
+  
+.fotodoboi{
+  width: 100px;
+  height: 350px;
+  box-shadow: 10px 10px 10px 5px rgb(91, 151, 1);
+  display: flex;
+  justify-content: center;
+  margin-top: 200px
+}
+.texto2{
+  
+}
+.titulo1{
+  display: flex;
+  justify-content: center;
+  
+  margin-top: 50px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: rgb(1,1,11);
+background: linear-gradient(90deg, rgba(1,1,11,0.6671043417366946) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+ width: 1100px;
+ border-radius: 70px;
+ color: beige;
+
+}
+
+.titulo2{
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: rgb(1,1,11);
+background: linear-gradient(90deg, rgba(1,1,11,0.6671043417366946) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+ width: 1100px;
+ border-radius: 70px;
+ color: beige;
+}
+
+#page4{
+ 
+}
+
+.titulo3{display: flex;
+  justify-content: center;
+  margin-top: 400px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: rgb(1,1,11);
+background: linear-gradient(90deg, rgba(1,1,11,0.6671043417366946) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+ width: 1100px;
+ border-radius: 70px;
+ color: beige;
+}
+
+.tema{
+  display: flex;
+  justify-content: center;
+  margin-left: 325px;
+}
+.tema2024{
+  display: flex;
+  justify-content: center;
+  margin-top: 400px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: rgb(1,1,11);
+background: linear-gradient(90deg, rgba(1,1,11,0.6671043417366946) 51%, rgba(27,147,5,0.8323704481792717) 80%);
+ width: 1100px;
+ border-radius: 70px;
+ color: beige;
+ margin-left: 400px;
+ border:solid green;
+ border-radius: 40px;
+ 
+}
+.itens{
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  border:solid rgb(10, 167, 10);
+  border-radius: 100px;
+  margin-left: -200px;
+  
+}
+
+.fotodotema{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-left: 300px;
+
+
+}
+.carousel{
+  width: 2200px;
+  height: 600px;
+  position:relative ;
+  border: solid 5px green;
+  background-color: #060806;
+  box-shadow: 10px 10px 10px 5px #13c013;
+
+
+
+}
+
+.casousel-item{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+padding: 25px 50px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+}
+
+.arrow{
+  border:solid rgb(0, 7, 0);
+  border-width:  0px 6px 6px 0px ;
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.prev{
+  top: 50%;
+  left: 10px;
+  position: absolute;
+  transform: translateY(-50%) rotate(135deg);
+
+}
+
+.next{
+  top: 50%;
+  right: 10px;
+  position: absolute;
+  transform: translateY(-50%) rotate(-45deg); 
+}
+
+[id^="item"]{
+  display: none;
+}
+
+.item-1{
+  z-index: 2;
+  opacity: 1;
+  background: url("cunhaa.JPG");
+  background-size: cover;
+}
+
+.item-2{
+  
+  background: url("pajee.JPG");
+  background-size: cover;
+}
+.item-3{
+  
+  background: url("porta.JPG");
+  background-size: cover;
+}
+
+.item-4{
+  
+  background: url("hursula.JPG");
+  background-size: cover;
+}
+.item-5{
+  
+  background: url("ocarantemfoto.JPG");
+  background-size: cover;
+}
+.item-6{
+  
+  background: url("apresentadorr.JPG");
+  background-size: cover;
+}
+.item-7{
+  
+  background: url("sinha.JPG");
+  background-size: cover;
+}
+.item-8{
+  
+  background: url("amodoboi.JPG");
+  background-size: cover;
+}
+*:target~.item-1{
+  opacity: 1;
+}
+
+#item-2:target~.item-2,
+#item-3:target~.item-3,
+#item-4:target~.item-4,
+#item-5:target~.item-5,
+#item-6:target~.item-6,
+#item-7:target~.item-7,
+#item-8:target~.item-8{
+  z-index: 3;
+  opacity: 1;
+}
