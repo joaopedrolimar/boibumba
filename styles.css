@@ -61,7 +61,7 @@ border-width: 50px;
 }
 body{
  
-background-image: url(desistindo.png);
+background-image: url(./img/desistindo.png);
 background-color: rgb(177, 22, 22);
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -277,44 +277,44 @@ transition: all 0.5s ease-in-out;
 .item-1{
   z-index: 2;
   opacity: 1;
-  background: url("cunhaa.JPG");
+  background: url("./img/cunhaa.JPG");
   background-size: cover;
 }
 
 .item-2{
   
-  background: url("pajee.JPG");
+  background: url("./img/pajee.JPG");
   background-size: cover;
 }
 .item-3{
   
-  background: url("porta.JPG");
+  background: url("./img/porta.JPG");
   background-size: cover;
 }
 
 .item-4{
   
-  background: url("hursula.JPG");
+  background: url("./img/hursula.JPG");
   background-size: cover;
 }
 .item-5{
   
-  background: url("ocarantemfoto.JPG");
+  background: url("./img/ocarantemfoto.JPG");
   background-size: cover;
 }
 .item-6{
   
-  background: url("apresentadorr.JPG");
+  background: url("./img/apresentadorr.JPG");
   background-size: cover;
 }
 .item-7{
   
-  background: url("sinha.JPG");
+  background: url("./img/sinha.JPG");
   background-size: cover;
 }
 .item-8{
   
-  background: url("amodoboi.JPG");
+  background: url("./img/amodoboi.JPG");
   background-size: cover;
 }
 *:target~.item-1{
